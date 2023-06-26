@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T17:53:31.615Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lSGEypH_hSRqxQGED0U1" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T00:47:55.796Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2C50TKMCEoCIQ8_yoAM6" version="21.1.5" type="github">
   <diagram name="Halaman-1" id="bx_ZUtaiM7BgF-SunPOn">
-    <mxGraphModel dx="381" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="259" dy="1687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,7 +202,7 @@
         <mxCell id="hJ7JwLUaT9OFbvIHJjiZ-193" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="hJ7JwLUaT9OFbvIHJjiZ-54" target="hJ7JwLUaT9OFbvIHJjiZ-192">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hJ7JwLUaT9OFbvIHJjiZ-195" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hJ7JwLUaT9OFbvIHJjiZ-193">
+        <mxCell id="hJ7JwLUaT9OFbvIHJjiZ-195" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hJ7JwLUaT9OFbvIHJjiZ-193">
           <mxGeometry x="-0.3181" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -593,7 +593,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hJ7JwLUaT9OFbvIHJjiZ-192" value="memiliki" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hJ7JwLUaT9OFbvIHJjiZ-192" value="dimiliki" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1390" y="137" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hJ7JwLUaT9OFbvIHJjiZ-194" value="bank" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
