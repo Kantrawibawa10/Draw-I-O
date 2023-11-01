@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T03:59:47.996Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="tNVP8vxfNeHBh6yn1-9w" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T04:02:56.103Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="s2488RYYfKuMnFHnOdza" version="22.0.8" type="github">
   <diagram name="Halaman-1" id="bM6BuHL4AkJzUA_qrpLi">
     <mxGraphModel dx="106" dy="1016" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -690,19 +690,19 @@
         <mxCell id="oWTvNFwiArvUMakFpTVZ-348" value="Pelanggan Melihat Halaman&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="oWTvNFwiArvUMakFpTVZ-344">
           <mxGeometry x="90" y="424" width="183" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="oWTvNFwiArvUMakFpTVZ-349" value="Input Data Pengguna" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="oWTvNFwiArvUMakFpTVZ-344">
+        <mxCell id="oWTvNFwiArvUMakFpTVZ-349" value="Masukan profile &lt;br&gt;pengguna" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="oWTvNFwiArvUMakFpTVZ-344">
           <mxGeometry x="83" y="827" width="199" height="71" as="geometry" />
         </mxCell>
         <mxCell id="oWTvNFwiArvUMakFpTVZ-350" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="oWTvNFwiArvUMakFpTVZ-344" source="oWTvNFwiArvUMakFpTVZ-351" target="oWTvNFwiArvUMakFpTVZ-349">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oWTvNFwiArvUMakFpTVZ-351" value="Pelanggan/Users&lt;br&gt;Masuk ke menu register" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="oWTvNFwiArvUMakFpTVZ-344">
+        <mxCell id="oWTvNFwiArvUMakFpTVZ-351" value="Masuk ke Halaman Register" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="oWTvNFwiArvUMakFpTVZ-344">
           <mxGeometry x="99.5" y="608" width="169" height="76" as="geometry" />
         </mxCell>
         <mxCell id="oWTvNFwiArvUMakFpTVZ-352" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="oWTvNFwiArvUMakFpTVZ-344" source="oWTvNFwiArvUMakFpTVZ-353" target="oWTvNFwiArvUMakFpTVZ-354">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oWTvNFwiArvUMakFpTVZ-353" value="Pelanggan/Users&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Masuk ke menu login" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="oWTvNFwiArvUMakFpTVZ-344">
+        <mxCell id="oWTvNFwiArvUMakFpTVZ-353" value="Masuk ke Halaman Login" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="oWTvNFwiArvUMakFpTVZ-344">
           <mxGeometry x="109" y="1085" width="173" height="87" as="geometry" />
         </mxCell>
         <mxCell id="oWTvNFwiArvUMakFpTVZ-354" value="Input Username&lt;br&gt;dan Password" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="oWTvNFwiArvUMakFpTVZ-344">
@@ -750,7 +750,7 @@
         <mxCell id="oWTvNFwiArvUMakFpTVZ-368" value="Sistem SiRentCar" style="swimlane;startSize=20;fontSize=16;" vertex="1" parent="oWTvNFwiArvUMakFpTVZ-343">
           <mxGeometry x="385" width="606" height="4396" as="geometry" />
         </mxCell>
-        <mxCell id="oWTvNFwiArvUMakFpTVZ-369" value="Menampilkan halaman homepage SiRentcar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="oWTvNFwiArvUMakFpTVZ-368">
+        <mxCell id="oWTvNFwiArvUMakFpTVZ-369" value="Menampilkan halaman homepage BaksoQu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="oWTvNFwiArvUMakFpTVZ-368">
           <mxGeometry x="95" y="241" width="188" height="87" as="geometry" />
         </mxCell>
         <mxCell id="oWTvNFwiArvUMakFpTVZ-370" value="Menampilkan Halaman&lt;br&gt;Register" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="oWTvNFwiArvUMakFpTVZ-368">
@@ -759,7 +759,7 @@
         <mxCell id="oWTvNFwiArvUMakFpTVZ-371" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="oWTvNFwiArvUMakFpTVZ-368" source="oWTvNFwiArvUMakFpTVZ-375" target="oWTvNFwiArvUMakFpTVZ-370">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oWTvNFwiArvUMakFpTVZ-372" value="Data is False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="oWTvNFwiArvUMakFpTVZ-371">
+        <mxCell id="oWTvNFwiArvUMakFpTVZ-372" value="Gagal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="oWTvNFwiArvUMakFpTVZ-371">
           <mxGeometry x="-0.157" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -769,7 +769,7 @@
             <mxPoint x="299" y="860.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oWTvNFwiArvUMakFpTVZ-374" value="Data is True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="oWTvNFwiArvUMakFpTVZ-373">
+        <mxCell id="oWTvNFwiArvUMakFpTVZ-374" value="Berhasil" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="oWTvNFwiArvUMakFpTVZ-373">
           <mxGeometry x="0.293" y="-6" relative="1" as="geometry">
             <mxPoint x="-17" y="-5" as="offset" />
           </mxGeometry>
@@ -777,7 +777,7 @@
         <mxCell id="oWTvNFwiArvUMakFpTVZ-375" value="Verifikasi&amp;nbsp;&lt;br&gt;Account" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="oWTvNFwiArvUMakFpTVZ-368">
           <mxGeometry x="123.5" y="806" width="123" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="oWTvNFwiArvUMakFpTVZ-376" value="Menyimpan data pengguna" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="oWTvNFwiArvUMakFpTVZ-368">
+        <mxCell id="oWTvNFwiArvUMakFpTVZ-376" value="Simpan data Pengguna" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="oWTvNFwiArvUMakFpTVZ-368">
           <mxGeometry x="402" y="821" width="169" height="79" as="geometry" />
         </mxCell>
         <mxCell id="oWTvNFwiArvUMakFpTVZ-377" value="Menampilkan Halaman&lt;br&gt;Login" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="oWTvNFwiArvUMakFpTVZ-368">
