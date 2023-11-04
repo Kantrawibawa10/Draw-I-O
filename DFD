@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T03:14:39.540Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ZFtnP6a1OvMJVQlwlU9K" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T03:16:38.234Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Il8pS7EXclBAPwjNhqAE" version="22.0.8" type="github">
   <diagram name="Halaman-1" id="xL1WO7_P-TseZ3oovqAV">
     <mxGraphModel dx="2346" dy="1451" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -482,6 +482,23 @@
         <mxCell id="f8CfukZREu920ANx3ilF-148" value="Laporan Payment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="f8CfukZREu920ANx3ilF-147">
           <mxGeometry x="-0.6138" y="-3" relative="1" as="geometry">
             <mxPoint y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f8CfukZREu920ANx3ilF-149" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.877;entryY=1.011;entryDx=0;entryDy=0;startArrow=none;startFill=0;endFill=0;entryPerimeter=0;" edge="1" parent="1" target="f8CfukZREu920ANx3ilF-108">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1127" y="2827" as="sourcePoint" />
+            <mxPoint x="1127" y="1773" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f8CfukZREu920ANx3ilF-150" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="f8CfukZREu920ANx3ilF-103">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="541" y="2798" as="sourcePoint" />
+            <mxPoint x="1127" y="2828" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f8CfukZREu920ANx3ilF-151" value="Memberikan Info pengambilan Mobil di SiRentCar" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="f8CfukZREu920ANx3ilF-150">
+          <mxGeometry x="0.3728" y="3" relative="1" as="geometry">
+            <mxPoint x="-62" y="-72" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
