@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T02:39:24.731Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="b9U0_9y3kYANKKcuRZfB" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T02:40:16.807Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="0ajVWtjoH-7ajox0-uis" version="22.0.8" type="github">
   <diagram name="Halaman-1" id="xL1WO7_P-TseZ3oovqAV">
-    <mxGraphModel dx="1371" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1851" dy="1114" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -295,6 +295,12 @@
               <mxPoint x="-460" y="2539" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="f8CfukZREu920ANx3ilF-90" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;tbl_payment&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-364" y="2593" width="185" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="f8CfukZREu920ANx3ilF-91" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.019;entryY=0.589;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="f8CfukZREu920ANx3ilF-90" target="f8CfukZREu920ANx3ilF-87">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
