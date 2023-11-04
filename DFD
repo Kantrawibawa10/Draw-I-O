@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T01:39:05.290Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="GID4WPOTgSIpQNTIkBNx" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T01:42:41.872Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="9cjJPiV7OARNxST67hok" version="22.0.8" type="github">
   <diagram name="Halaman-1" id="xL1WO7_P-TseZ3oovqAV">
     <mxGraphModel dx="1860" dy="1392" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8CfukZREu920ANx3ilF-12" value="Infomasi Data Kendaraan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="f8CfukZREu920ANx3ilF-9">
+        <mxCell id="f8CfukZREu920ANx3ilF-12" value="Akun Pelanggan,&lt;br&gt;Infomasi Data Kendaraan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="f8CfukZREu920ANx3ilF-9">
           <mxGeometry x="-0.03" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -47,7 +47,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f8CfukZREu920ANx3ilF-18" value="Login&lt;br&gt;Data Kendaraan&lt;br&gt;Data Biaya&lt;br&gt;Data Penyewaan&lt;br&gt;Data Pelanggan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="f8CfukZREu920ANx3ilF-15">
+        <mxCell id="f8CfukZREu920ANx3ilF-18" value="Usernam dan Password,&lt;br&gt;Tambah Data Kendaraan,&lt;br&gt;Data Kendaraan,&lt;br&gt;Data Penyewaan,&lt;br&gt;Update Status Penyewaan,&lt;br&gt;Update Status Pembayaran,&lt;br&gt;Data Pelanggan," style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="f8CfukZREu920ANx3ilF-15">
           <mxGeometry x="-0.0195" y="-5" relative="1" as="geometry">
             <mxPoint x="39" y="-1" as="offset" />
           </mxGeometry>
