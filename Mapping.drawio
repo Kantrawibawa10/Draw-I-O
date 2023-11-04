@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T08:22:44.532Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="FiyR-LxWpao65-OAVT5G" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-04T08:23:32.493Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="AEoVvGoICA6kq0IwLTP3" version="22.0.8" type="github">
   <diagram name="Halaman-1" id="zZ9ojKijxVit2-5wEGta">
     <mxGraphModel dx="2422" dy="1774" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -232,6 +232,18 @@
               <mxPoint x="442" y="531" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_-MDmTSXdZasQkjrf0pR-95" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;tbl_category&lt;/font&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="884" y="629" width="198" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="_-MDmTSXdZasQkjrf0pR-96" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;id_category&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_-MDmTSXdZasQkjrf0pR-95">
+          <mxGeometry y="30" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_-MDmTSXdZasQkjrf0pR-97" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;category&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="_-MDmTSXdZasQkjrf0pR-95">
+          <mxGeometry y="60" width="198" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="_-MDmTSXdZasQkjrf0pR-99" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=oval;endFill=1;startArrow=oval;startFill=1;" edge="1" parent="1" source="_-MDmTSXdZasQkjrf0pR-96" target="_-MDmTSXdZasQkjrf0pR-73">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
