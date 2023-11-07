@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T09:02:01.899Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2Ra83SRY4JAilGzAy6ac" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T09:03:18.651Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GfaH2bEBh0kVvtRUeWtS" version="22.0.8" type="github">
   <diagram name="Halaman-1" id="bM6BuHL4AkJzUA_qrpLi">
     <mxGraphModel dx="2843" dy="1516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1268,11 +1268,20 @@
         <mxCell id="t7pMAzKFTkNPOBsuftqS-80" value="Melakukan negosiasi dengan pelanggan/users" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="t7pMAzKFTkNPOBsuftqS-78">
           <mxGeometry x="188" y="2283" width="195" height="94" as="geometry" />
         </mxCell>
+        <mxCell id="t7pMAzKFTkNPOBsuftqS-112" value="Mengelola data customer" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="t7pMAzKFTkNPOBsuftqS-78">
+          <mxGeometry x="110" y="1077" width="247" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="t7pMAzKFTkNPOBsuftqS-113" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="t7pMAzKFTkNPOBsuftqS-78" source="t7pMAzKFTkNPOBsuftqS-112" target="t7pMAzKFTkNPOBsuftqS-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t7pMAzKFTkNPOBsuftqS-61" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="t7pMAzKFTkNPOBsuftqS-24" source="t7pMAzKFTkNPOBsuftqS-34" target="t7pMAzKFTkNPOBsuftqS-80">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="645" y="2353" as="sourcePoint" />
             <mxPoint x="695" y="2303" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="t7pMAzKFTkNPOBsuftqS-114" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="t7pMAzKFTkNPOBsuftqS-24" source="t7pMAzKFTkNPOBsuftqS-112" target="t7pMAzKFTkNPOBsuftqS-105">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t7pMAzKFTkNPOBsuftqS-88" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Flowchart BacainAja.id&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-823" y="-86" width="827" height="79" as="geometry" />
