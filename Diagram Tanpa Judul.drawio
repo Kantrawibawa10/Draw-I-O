@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T09:09:46.587Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ps2DYhHx4XavroDoCH4B" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T09:11:07.970Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rpJ9Aw4nqI9de7yz_5RU" version="22.0.8" type="github">
   <diagram name="Halaman-1" id="bM6BuHL4AkJzUA_qrpLi">
     <mxGraphModel dx="2583" dy="1340" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1097,7 +1097,7 @@
         <mxCell id="t7pMAzKFTkNPOBsuftqS-97" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="t7pMAzKFTkNPOBsuftqS-3" source="t7pMAzKFTkNPOBsuftqS-98" target="t7pMAzKFTkNPOBsuftqS-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t7pMAzKFTkNPOBsuftqS-124" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="t7pMAzKFTkNPOBsuftqS-3">
+        <mxCell id="t7pMAzKFTkNPOBsuftqS-124" value="melengkapi data diri dan verifikasi data customer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="t7pMAzKFTkNPOBsuftqS-3">
           <mxGeometry x="102" y="2674" width="168" height="81" as="geometry" />
         </mxCell>
         <mxCell id="t7pMAzKFTkNPOBsuftqS-91" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="t7pMAzKFTkNPOBsuftqS-2" source="t7pMAzKFTkNPOBsuftqS-51" target="t7pMAzKFTkNPOBsuftqS-26">
@@ -1294,6 +1294,11 @@
             <Array as="points">
               <mxPoint x="592" y="2714" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7pMAzKFTkNPOBsuftqS-126" value="jika ingin melanjutkan &lt;br&gt;transaksi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="t7pMAzKFTkNPOBsuftqS-125">
+          <mxGeometry x="-0.2191" y="-4" relative="1" as="geometry">
+            <mxPoint x="-23" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t7pMAzKFTkNPOBsuftqS-88" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Flowchart BacainAja.id&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
