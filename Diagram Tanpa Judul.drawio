@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T09:24:26.830Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="W_ZjOTEC3XQNG0LDEhHK" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T09:30:06.004Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Ti5FA8wjeZk8lUWw44BH" version="22.0.8" type="github">
   <diagram name="Halaman-1" id="bM6BuHL4AkJzUA_qrpLi">
-    <mxGraphModel dx="3828" dy="2186" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5580" dy="3377" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1209,7 +1209,7 @@
         <mxCell id="t7pMAzKFTkNPOBsuftqS-107" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="t7pMAzKFTkNPOBsuftqS-2" source="t7pMAzKFTkNPOBsuftqS-96" target="t7pMAzKFTkNPOBsuftqS-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t7pMAzKFTkNPOBsuftqS-24" value="Sistem SiRentCar" style="swimlane;startSize=20;fontSize=16;" vertex="1" parent="t7pMAzKFTkNPOBsuftqS-2">
+        <mxCell id="t7pMAzKFTkNPOBsuftqS-24" value="" style="swimlane;startSize=20;fontSize=16;" vertex="1" parent="t7pMAzKFTkNPOBsuftqS-2">
           <mxGeometry x="385" width="1318" height="4408" as="geometry" />
         </mxCell>
         <mxCell id="t7pMAzKFTkNPOBsuftqS-25" value="Sistem menampilkan halaman" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="t7pMAzKFTkNPOBsuftqS-24">
@@ -1365,6 +1365,9 @@
         </mxCell>
         <mxCell id="t7pMAzKFTkNPOBsuftqS-169" value="system merespon status" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="t7pMAzKFTkNPOBsuftqS-24">
           <mxGeometry x="307" y="3921" width="170" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="t7pMAzKFTkNPOBsuftqS-175" value="System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="t7pMAzKFTkNPOBsuftqS-24">
+          <mxGeometry x="402" y="-7" width="71" height="31" as="geometry" />
         </mxCell>
         <mxCell id="t7pMAzKFTkNPOBsuftqS-119" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.443;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="t7pMAzKFTkNPOBsuftqS-2" source="t7pMAzKFTkNPOBsuftqS-11" target="t7pMAzKFTkNPOBsuftqS-118">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
