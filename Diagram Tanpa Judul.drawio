@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T09:08:02.281Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xIUWr85jv_6yrh0IMe8j" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T09:08:44.956Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hf0rYCBw9WwWSAdBYidp" version="22.0.8" type="github">
   <diagram name="Halaman-1" id="bM6BuHL4AkJzUA_qrpLi">
     <mxGraphModel dx="2583" dy="1340" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1259,6 +1259,21 @@
         </mxCell>
         <mxCell id="t7pMAzKFTkNPOBsuftqS-120" value="Verifikasi transaksi" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="t7pMAzKFTkNPOBsuftqS-24">
           <mxGeometry x="121.75" y="2524" width="170.25" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="t7pMAzKFTkNPOBsuftqS-122" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="t7pMAzKFTkNPOBsuftqS-24" source="t7pMAzKFTkNPOBsuftqS-120" target="t7pMAzKFTkNPOBsuftqS-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409" y="2486" as="sourcePoint" />
+            <mxPoint x="459" y="2436" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="417" y="2585" />
+              <mxPoint x="417" y="2182" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7pMAzKFTkNPOBsuftqS-123" value="Ingin menambahkan &lt;br&gt;daftar buku favorit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="t7pMAzKFTkNPOBsuftqS-122">
+          <mxGeometry x="-0.3887" y="2" relative="1" as="geometry">
+            <mxPoint x="3" y="-43" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="t7pMAzKFTkNPOBsuftqS-119" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.443;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="t7pMAzKFTkNPOBsuftqS-2" source="t7pMAzKFTkNPOBsuftqS-11" target="t7pMAzKFTkNPOBsuftqS-118">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
