@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T09:17:03.895Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="52Dqp1cGfyija82yci9m" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T09:17:45.319Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="EvuLGbRhDCjxzQ8Yoi9q" version="22.0.8" type="github">
   <diagram name="Halaman-1" id="bM6BuHL4AkJzUA_qrpLi">
     <mxGraphModel dx="2843" dy="1516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1115,6 +1115,9 @@
         <mxCell id="t7pMAzKFTkNPOBsuftqS-141" value="melakukan pembayaran" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="t7pMAzKFTkNPOBsuftqS-3">
           <mxGeometry x="77" y="3202" width="184" height="79" as="geometry" />
         </mxCell>
+        <mxCell id="t7pMAzKFTkNPOBsuftqS-145" value="memilih metode pembayaran" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="t7pMAzKFTkNPOBsuftqS-3">
+          <mxGeometry x="60" y="3365" width="177" height="86" as="geometry" />
+        </mxCell>
         <mxCell id="t7pMAzKFTkNPOBsuftqS-91" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="t7pMAzKFTkNPOBsuftqS-2" source="t7pMAzKFTkNPOBsuftqS-51" target="t7pMAzKFTkNPOBsuftqS-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="129.5" y="1216" as="sourcePoint" />
@@ -1344,6 +1347,15 @@
         </mxCell>
         <mxCell id="t7pMAzKFTkNPOBsuftqS-144" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="t7pMAzKFTkNPOBsuftqS-2" source="t7pMAzKFTkNPOBsuftqS-141" target="t7pMAzKFTkNPOBsuftqS-143">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t7pMAzKFTkNPOBsuftqS-146" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="t7pMAzKFTkNPOBsuftqS-2" source="t7pMAzKFTkNPOBsuftqS-143" target="t7pMAzKFTkNPOBsuftqS-145">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="529" y="3445" as="sourcePoint" />
+            <mxPoint x="579" y="3395" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="633" y="3408" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="t7pMAzKFTkNPOBsuftqS-88" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Flowchart BacainAja.id&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-823" y="-86" width="827" height="79" as="geometry" />
