@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T10:54:07.182Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2s7y-veHKAHSs0AQYPXh" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T10:54:13.182Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dVy0VlyUpr1VNRjKnjsR" version="22.0.8" type="github">
   <diagram name="Halaman-1" id="xL1WO7_P-TseZ3oovqAV">
     <mxGraphModel dx="4443" dy="1516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -922,7 +922,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vsS3Z2obp052EB4DTJJ0-129" value="mengirim Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="vsS3Z2obp052EB4DTJJ0-128">
+        <mxCell id="vsS3Z2obp052EB4DTJJ0-129" value="Mengirim Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="vsS3Z2obp052EB4DTJJ0-128">
           <mxGeometry x="0.063" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
