@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T06:41:28.841Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QTAxyrA29xR4FgO5Cxpe" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T06:44:12.495Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ABXqj_ng8bcCuGNa5Y5m" version="22.1.0" type="github">
   <diagram name="Halaman-1" id="bM6BuHL4AkJzUA_qrpLi">
     <mxGraphModel dx="5243" dy="1516" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1487,6 +1487,9 @@
             <mxPoint x="-41" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Xe43yEN1HmJn_iY04M1Y-207" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Menampilkan halaman produk&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Xe43yEN1HmJn_iY04M1Y-123">
+          <mxGeometry x="109.25" y="1230" width="239.5" height="104" as="geometry" />
+        </mxCell>
         <mxCell id="Xe43yEN1HmJn_iY04M1Y-157" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="Xe43yEN1HmJn_iY04M1Y-98" source="Xe43yEN1HmJn_iY04M1Y-102" target="Xe43yEN1HmJn_iY04M1Y-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1499,12 +1502,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xe43yEN1HmJn_iY04M1Y-162" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Xe43yEN1HmJn_iY04M1Y-98" source="Xe43yEN1HmJn_iY04M1Y-103" target="Xe43yEN1HmJn_iY04M1Y-198">
+        <mxCell id="Xe43yEN1HmJn_iY04M1Y-162" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Xe43yEN1HmJn_iY04M1Y-98" source="Xe43yEN1HmJn_iY04M1Y-103" target="Xe43yEN1HmJn_iY04M1Y-198">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="215" y="1049" as="sourcePoint" />
             <mxPoint x="506" y="688" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="58" y="846" />
+              <mxPoint x="198" y="567" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1513,6 +1516,9 @@
         </mxCell>
         <mxCell id="Xe43yEN1HmJn_iY04M1Y-205" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Menyimpan data pengguna&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="Xe43yEN1HmJn_iY04M1Y-185">
           <mxGeometry x="124" y="983.5" width="221" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="Xe43yEN1HmJn_iY04M1Y-209" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Update data produk&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="Xe43yEN1HmJn_iY04M1Y-185">
+          <mxGeometry x="127" y="1236" width="221" height="92" as="geometry" />
         </mxCell>
         <mxCell id="Xe43yEN1HmJn_iY04M1Y-200" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Xe43yEN1HmJn_iY04M1Y-98" source="Xe43yEN1HmJn_iY04M1Y-198" target="Xe43yEN1HmJn_iY04M1Y-199">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1536,6 +1542,23 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="793" y="1036" as="sourcePoint" />
             <mxPoint x="843" y="986" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xe43yEN1HmJn_iY04M1Y-208" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Xe43yEN1HmJn_iY04M1Y-98" source="Xe43yEN1HmJn_iY04M1Y-103" target="Xe43yEN1HmJn_iY04M1Y-207">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="112" y="1332" as="sourcePoint" />
+            <mxPoint x="162" y="1282" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="47" y="469" />
+              <mxPoint x="47" y="1282" />
+              <mxPoint x="494" y="1282" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xe43yEN1HmJn_iY04M1Y-210" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Xe43yEN1HmJn_iY04M1Y-98" source="Xe43yEN1HmJn_iY04M1Y-207" target="Xe43yEN1HmJn_iY04M1Y-209">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="753" y="1278" as="sourcePoint" />
+            <mxPoint x="803" y="1228" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xe43yEN1HmJn_iY04M1Y-195" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Flowchart&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
