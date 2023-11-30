@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T14:46:47.569Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ogYHl646bOudQtcc4URM" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T14:47:15.943Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OVMQQLi7xNPdefwY3oVr" version="22.1.5" type="github">
   <diagram name="Halaman-1" id="PpXOaW4QuxUs9zCqDB_B">
-    <mxGraphModel dx="1556" dy="1093" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2828" dy="1856" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,7 +150,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sLQCOglT2192zuMqJqdj-33" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;2.1 Menentukan &lt;br&gt;Struktur Database&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="76" y="371" width="225" height="94" as="geometry" />
+          <mxGeometry x="54" y="371" width="225" height="94" as="geometry" />
         </mxCell>
         <mxCell id="sLQCOglT2192zuMqJqdj-34" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#7EA6E0;strokeWidth=2;endFill=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sLQCOglT2192zuMqJqdj-33" target="sLQCOglT2192zuMqJqdj-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -162,10 +162,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sLQCOglT2192zuMqJqdj-35" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;2.2 Menentukan &lt;br&gt;UI/UX&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="76" y="512" width="225" height="94" as="geometry" />
+          <mxGeometry x="54" y="512" width="225" height="94" as="geometry" />
         </mxCell>
         <mxCell id="sLQCOglT2192zuMqJqdj-36" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;2.3 Prototyping&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="76" y="653" width="225" height="94" as="geometry" />
+          <mxGeometry x="54" y="649" width="225" height="94" as="geometry" />
         </mxCell>
         <mxCell id="sLQCOglT2192zuMqJqdj-37" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#7EA6E0;strokeWidth=2;endFill=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sLQCOglT2192zuMqJqdj-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -186,7 +186,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sLQCOglT2192zuMqJqdj-39" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;2.4 Menetapkan&lt;br&gt;DPPL&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="76" y="802" width="225" height="94" as="geometry" />
+          <mxGeometry x="54" y="802" width="225" height="94" as="geometry" />
         </mxCell>
         <mxCell id="sLQCOglT2192zuMqJqdj-40" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#7EA6E0;strokeWidth=2;endFill=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
