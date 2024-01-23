@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T05:55:35.723Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Ne8nlfl8uHMDb9B_PvNl" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T05:56:22.323Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nVdjLNH-EeHmQf8yJlMU" version="22.1.21" type="github">
   <diagram name="Halaman-1" id="df8_s7hSdG_pFl4ybTmo">
-    <mxGraphModel dx="1783" dy="1340" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="1212" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,6 +326,68 @@
               <mxPoint x="1325" y="26" />
               <mxPoint x="1325" y="37" />
               <mxPoint x="1531" y="37" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DsbmugeIgE46ZY0_CIR-28" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;div&gt;1.2 Perencanaan Proyek&lt;/div&gt;&lt;div&gt;1.2.1 Penjadwalan&lt;/div&gt;&lt;div&gt;1.2.2 Anggaran&lt;/div&gt;&lt;div&gt;1.2.3 Manajemen Risiko&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#007FFF;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="320" width="256" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="1DsbmugeIgE46ZY0_CIR-29" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;1.4 Pengembangan Aplikasi&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;1.4.1 Pembangunan Front-end&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;1.4.2 Pengembangan Back-end&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;1.4.3 Integrasi Sistem&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#007FFF;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="1738" y="320" width="267" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="1DsbmugeIgE46ZY0_CIR-30" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;1.1. Persiapan Proyek&lt;br&gt;&lt;span style=&quot;&quot;&gt;1.1.1 Riset Pasar.&lt;br&gt;1.1.2 Identifikasi Kebutuhan Pemgguna.&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#007FFF;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="843" y="320" width="286" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="1DsbmugeIgE46ZY0_CIR-31" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;1.3 Desain Aplikasi&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;1.3.1 Desain Antarmuka Pengguna&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;1.3.2 Desain Database&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;1.3.3 Desain Arsitektur Aplikasi&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#007FFF;strokeColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="1452" y="320" width="267" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="1DsbmugeIgE46ZY0_CIR-32" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;strokeColor=#7EA6E0;strokeWidth=3;" edge="1" parent="1" target="1DsbmugeIgE46ZY0_CIR-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1383" y="199" as="sourcePoint" />
+            <mxPoint x="1165" y="231" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1383" y="262" />
+              <mxPoint x="983" y="262" />
+              <mxPoint x="983" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DsbmugeIgE46ZY0_CIR-33" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;strokeColor=#7EA6E0;strokeWidth=3;" edge="1" parent="1" target="1DsbmugeIgE46ZY0_CIR-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1384" y="199" as="sourcePoint" />
+            <mxPoint x="1063" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1382" y="201" />
+              <mxPoint x="1383" y="201" />
+              <mxPoint x="1383" y="263" />
+              <mxPoint x="1241" y="263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DsbmugeIgE46ZY0_CIR-34" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;strokeColor=#7EA6E0;strokeWidth=3;" edge="1" parent="1" target="1DsbmugeIgE46ZY0_CIR-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1382" y="199" as="sourcePoint" />
+            <mxPoint x="1449" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1382" y="264" />
+              <mxPoint x="1868" y="264" />
+              <mxPoint x="1868" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1DsbmugeIgE46ZY0_CIR-35" value="" style="edgeStyle=segmentEdgeStyle;endArrow=none;html=1;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;strokeColor=#319fff;strokeWidth=3;" edge="1" parent="1" target="1DsbmugeIgE46ZY0_CIR-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1378" y="37" as="sourcePoint" />
+            <mxPoint x="1309" y="502" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1382" y="37" />
+              <mxPoint x="1382" y="219" />
+              <mxPoint x="1381" y="219" />
+              <mxPoint x="1381" y="253" />
+              <mxPoint x="1382" y="253" />
+              <mxPoint x="1382" y="264" />
+              <mxPoint x="1588" y="264" />
+              <mxPoint x="1588" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
